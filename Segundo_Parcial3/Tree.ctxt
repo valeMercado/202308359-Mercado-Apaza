@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=
+comment1.target=java.lang.Object\ getData()
+comment2.params=
+comment2.target=java.util.List\ getChilds()
+comment3.params=value
+comment3.target=void\ setIsLastChild(boolean)
+comment4.params=
+comment4.target=boolean\ getIsLastChild()
+comment5.params=data
+comment5.target=Tree(java.lang.Object)
+comment6.params=data
+comment6.target=Tree\ addChild(java.lang.Object)
+comment7.params=
+comment7.target=void\ mostrar()
+numComments=8

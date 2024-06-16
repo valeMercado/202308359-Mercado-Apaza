@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lista
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=dato
+comment2.target=void\ insertar(java.lang.Object)
+comment3.params=q\ pos
+comment3.target=NodoSE\ buscar(NodoSE,\ int)
+comment4.params=pos\ dato
+comment4.target=void\ reemplazar(int,\ java.lang.Object)
+comment5.params=firstIndex\ secondIndex
+comment5.target=void\ swap(int,\ int)
+comment6.params=
+comment6.target=int\ longitud()
+comment7.params=pos
+comment7.target=java.lang.Object\ acceder(int)
+comment8.params=
+comment8.target=java.lang.String[]\ print()
+numComments=9

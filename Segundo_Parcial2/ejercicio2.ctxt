@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ejercicio2
+comment1.params=lista
+comment1.target=ListaCSE\ setList(int[])
+comment2.params=lista\ firstIndex\ secondIndex
+comment2.target=ListaCSE\ swap(int[],\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String[]\ print()
+comment4.params=lista
+comment4.target=java.lang.String[]\ convertirLista(ListaCSE)
+comment5.params=arr
+comment5.target=void\ mostrarInput(java.lang.String[])
+numComments=6
